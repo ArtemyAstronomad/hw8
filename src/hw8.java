@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class hw8 {
     public static void main(String[] args) {
         task1();
         task2();
